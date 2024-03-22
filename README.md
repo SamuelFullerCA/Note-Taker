@@ -15,7 +15,7 @@ Ever lose track of your thoughts? The Note Taker Application is the perfect solu
 
 ## Usage
 
-Link to application: https://note-taker-1-lqdb.onrender.com/notes
+Link to application: https://note-taker-1-lqdb.onrender.com
 
 Once the user has launched the application, they are presented with The Note Taker homepage. The user must then click the "Get Started" button to begin.
 
