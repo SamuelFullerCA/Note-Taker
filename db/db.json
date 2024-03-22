@@ -1,6 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "id": "97df2924-1e9a-4484-a28d-4d5fff25b2aa",
+        "title": "My Note",
+        "text": "This is my first note on the note taker App!\n"
+    },
+    {
+        "id": "073017a5-329c-402a-8e4e-86a84e4ea0a3",
+        "title": "Study",
+        "text": "Don't forget to study node.js and servers"
+    },
+    {
+        "id": "a7551925-fa22-483e-8c02-b8450a0a3e74",
+        "title": "Make gif",
+        "text": "Dont forget to make a gif showing off the note taker!"
     }
 ]
